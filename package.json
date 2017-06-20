@@ -1,0 +1,23 @@
+{
+  "name": "pg-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSFitz/pg-example.git"
+  },
+  "author": "Sean Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSFitz/pg-example/issues"
+  },
+  "homepage": "https://github.com/SeanSFitz/pg-example#readme",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "pg": "^6.3.1"
+  }
+}
