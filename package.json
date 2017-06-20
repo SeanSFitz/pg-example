@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SeanSFitz/pg-example#readme",
   "dependencies": {
+    "knex": "^0.13.0",
     "moment": "^2.18.1",
     "pg": "^6.3.1"
   }
